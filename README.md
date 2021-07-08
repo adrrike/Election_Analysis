@@ -15,12 +15,11 @@ Software: Python 3.7.6, Visual Studio Code 1.57
 
 ## Summary
 The Analysis of the Election shows that:
-
 The candidate results were:
 
-
+![election_results](https://user-images.githubusercontent.com/84742544/124964020-831f2900-dfee-11eb-8104-06da5599056f.PNG)
 
 
 The winner of the election was:
 
-
+![winner](https://user-images.githubusercontent.com/84742544/124964029-85818300-dfee-11eb-9777-ee7d0ceea34f.PNG)
