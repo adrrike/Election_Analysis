@@ -9,16 +9,16 @@ Helping Seth and Tom submit election audit results to the election comission and
 - 369,711 total voters
 
 ### Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
-Insert image
+![County_breakdown](https://user-images.githubusercontent.com/84742544/124987994-76f59480-e00b-11eb-89c4-c7553b30d184.PNG)
 
 ### Which county had the largest number of votes?
 -Denver
 
 ### Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
-Insert image
+![Candidate_breakdown](https://user-images.githubusercontent.com/84742544/124987993-765cfe00-e00b-11eb-96fa-13dcb5b33646.PNG)
 
 ### Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
-Insert image
+![Winner](https://user-images.githubusercontent.com/84742544/124987995-76f59480-e00b-11eb-815f-636ba8ec2f19.PNG)
 
 ## Election-Audit Summary: 
 
